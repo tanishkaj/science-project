@@ -1,0 +1,85 @@
+body {
+  color: rgb(78, 67, 52);
+}
+
+h2 {
+  margin: 0px 0px 25px 0px;
+}
+
+h3 {
+  margin: 0px 0px 15px 0px;
+}
+
+.sections {
+  padding: 50px 150px 50px 150px;
+}
+
+.heredity {
+  background-color: rgb(245, 227, 199);
+  border-style: solid double solid double;
+  border-width: 10px;
+}
+
+.biochem {
+  background-color: rgb(245, 227, 199);
+  border-style: solid double solid double;
+  border-width: 10px;
+}
+
+.eco {
+  background-color: rgb(245, 227, 199);
+  border-style: solid double solid double;
+  border-width: 10px;
+}
+
+.mainpg {
+  width: auto;
+  height: 600px;
+  background-color: rgb(245, 227, 199);
+  border-style: groove;
+  border-width: 100px;
+  border-color: rgb(192, 179, 161);
+}
+
+.header {
+  display: inline-block;
+  width: 560px;
+  text-align: center;
+}
+
+.bio {
+  text-align: justify;
+  font-size: 1rem;
+  width: 200px;
+}
+
+#mainpic {
+  width: 50%;
+  margin: 8px 0px 0px 0px;
+}
+
+a {
+  color: rgb(161, 139, 107);
+  text-decoration: underline white;
+}
+
+a:hover {
+  color: rgb(117, 87, 44);
+  text-decoration: underline wavy white;
+}
+
+.footer {
+  background-color: rgb(245, 227, 199);
+  border-style: solid double solid double;
+  border-width: 10px;
+  border-color: rgb(78, 67, 52);
+  color: rgb(161, 139, 107);
+  text-align: center;
+  position: fixed;
+  right: 0px;
+  top: 600px;
+}
+
+#foottable {
+  margin-left: 23%;
+}
